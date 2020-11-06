@@ -1,0 +1,5 @@
+﻿  KR.cpp
+C:\Users\truer\source\repos\KR\KR\KR.cpp(34,13): error C2374: myFile: переопределение; множественная инициализация
+C:\Users\truer\source\repos\KR\KR\KR.cpp(23): message : см. объявление "myFile"
+C:\Users\truer\source\repos\KR\KR\KR.cpp(37,16): error C2088: >>: недопустимо для class
+C:\Users\truer\source\repos\KR\KR\KR.cpp(26,10): warning C4996: 'fileno': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _fileno. See online help for details.
